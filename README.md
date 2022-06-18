@@ -4,17 +4,17 @@ Projeto consiste em criar um marcador de tarefas através de um input. O objetiv
 
 _________________________________________________________________________________________________________________________________________________________
 
-🛠 Tecnologias e ferramentas utilizadas:
-As seguintes ferramentas foram usadas na construção do projet: HTML5 CSS3 JavaScript
+<h3 aling="center">🛠 Tecnologias e ferramentas utilizadas🛠:</h3>
+As seguintes ferramentas foram usadas na construção do projeto: HTML5 CSS3 JavaScript.
 
 _________________________________________________________________________________________________________________________________________________
 
-🖥️ Demonstração🖥️
-Acesse o projeto clicando aqui.
+<h3 aling="center">🖥️ Demonstração🖥️</h3>
+Acesse o projeto clicando aqui(https://williama-hub.github.io/To_Do_List/index).
 
 ____________________________________________________________________________________________________________________________________________
 
-📝 Licença
+<h3 aling="center">📝 Licença<h3>
 O projeto se encontra sob licença MIT. Para mais detalhes, acesse license.
 
 ____________________________________________________________________________________________________________________________________
