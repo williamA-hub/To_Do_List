@@ -12,13 +12,15 @@ ________________________________________________________________________________
 
 <h3 align="center">🖥️ Demonstração🖥️</h3>
 
+
 <p align="center">Acesse o projeto clicando <a href="https://williama-hub.github.io/To_Do_List/index.html"> aqui </a> </p>
 
 ____________________________________________________________________________________________________________________________________________
 
 <h3 align="center">📝 Licença<h3>
+  
 
 <p align="center">O projeto se encontra sob licença MIT. Para mais detalhes, acesse license.</p>
 
 ____________________________________________________________________________________________________________________________________
-Criado por William Alves Moreira
+<h5>Criado por William Alves Moreira</h5>
